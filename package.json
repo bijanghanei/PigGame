@@ -1,0 +1,12 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "index.html",
+    "build": "index.html"
+  },
+  "author": "Bijan Ghanei",
+  "license": "ISC"
+}
